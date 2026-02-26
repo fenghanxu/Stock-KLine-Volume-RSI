@@ -431,9 +431,7 @@
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "623"
-            endingLineNumber = "623"
-            landmarkName = "-drawRect:"
-            landmarkType = "7">
+            endingLineNumber = "623">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -447,9 +445,7 @@
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "707"
-            endingLineNumber = "707"
-            landmarkName = "-calculateKLineResultWithI:"
-            landmarkType = "7">
+            endingLineNumber = "707">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -464,7 +460,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "131"
             endingLineNumber = "131"
-            landmarkName = "-setModel:"
+            landmarkName = "-handlePinch:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
